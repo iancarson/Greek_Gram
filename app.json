@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Greek_Gram",
+    "slug": "Greek_Gram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Greek_Gram"
+}
