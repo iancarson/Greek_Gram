@@ -1,5 +1,5 @@
 
-import { sendEmail } from './send-email';
+import { sendEmail } from './src/components/send-email';
 
 sendEmail(
     'user@domain.com',
