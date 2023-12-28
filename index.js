@@ -3,5 +3,5 @@ import { registerRootComponent } from 'expo';
 import App from './App';
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
-// It also ensures that whether you load the app in Ex
+// It also ensures that whether you load the app in E
 registerRootComponent(App);
