@@ -3,5 +3,5 @@ import { registerRootComponent } from 'expo';
 import App from './App';
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
-// It also ensures that whether
+// It also ensures that whethe
 registerRootComponent(App);
