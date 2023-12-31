@@ -2,5 +2,5 @@ import { registerRootComponent } from 'expo';
 
 import App from './App';
 
-// registerRootComponent calls AppReg
+// registerRootComponent calls AppRe
 registerRootComponent(App);
