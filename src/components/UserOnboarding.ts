@@ -1,1 +1,1 @@
-//This File handles the UserOnboarding Screen.
+//UserOnboarding Screen.
