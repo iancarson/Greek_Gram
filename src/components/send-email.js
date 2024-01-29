@@ -1,7 +1,6 @@
 import qs from 'qs';
 import { Linking } from 'react-native';
 
-
 export async function sendEmail(to, subject, body, options = {}) {
     const { cc, bcc } = options;
 
@@ -19,7 +18,6 @@ export async function sendEmail(to, subject, body, options = {}) {
         url += `?${query}`;
     }
 
-    // check if we can use this link
     const canOpen = await Linking.canOpenURL(url);
 
     if (!canOpen) {
